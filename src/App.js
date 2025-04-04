@@ -5,3 +5,4 @@ import './App.css'
 const App = () => <FruitsCounter />
 
 export default App
+/////////////////////
