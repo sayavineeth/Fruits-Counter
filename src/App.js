@@ -6,3 +6,4 @@ const App = () => <FruitsCounter />
 
 export default App
 /////////////////////
+//gukbsdicghlasfoafhc;oalcfhk
